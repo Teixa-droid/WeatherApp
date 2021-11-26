@@ -2,7 +2,7 @@
 
 Desenvolvimento de Interfaces Multimédia
 
-# WeatherApp
+# API
 
 open weather map
 https://openweathermap.org/api
